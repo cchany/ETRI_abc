@@ -23,5 +23,5 @@
 
 ##### * raw data는 ETRI 사이트에서 협약서 제출 후에 사용할 수 있습니다. (https://nanum.etri.re.kr/share/schung1/ETRILifelogDataset2020?lang=ko_KR)
 
-##### * raw data에서 feature extraction 전 필요한 중복 값 제거, 데이터셋 분할 작업은 sas 에서 이루어졌습니다.
+##### * raw data에서 feature extraction 전 필요한 중복 값 제거, 데이터셋 분할 작업은 sas 에서 이루어졌습니다. sas에서 전처리가 이루어진 파일은 data 폴더 안에 업로드 되어있습니다.
 
