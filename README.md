@@ -19,5 +19,9 @@
 
 ### 5) ensemble method 는 Logistic regression, XGBoost, Decision tree, Light GBM, RandomForest 모델이 classifier 로 사용되었으며, 각 모델의 성능과 ensmeble method의 성능을 비교하였습니다.
 
-### * 구체적 연구 방법 및 결과는 KCC 2023 : 한국컴퓨터종합학술대회 초록집을 참고하시면 좋을 것 같습니다. 
+##### * 구체적 연구 방법 및 결과는 KCC 2023 : 한국컴퓨터종합학술대회 초록집을 참고하시면 좋을 것 같습니다. 
+
+##### * raw data는 ETRI 사이트에서 협약서 제출 후에 사용할 수 있습니다. (https://nanum.etri.re.kr/share/schung1/ETRILifelogDataset2020?lang=ko_KR)
+
+##### * raw data에서 feature extraction 전 필요한 중복 값 제거, 데이터셋 분할 작업은 sas 에서 이루어졌습니다.
 
