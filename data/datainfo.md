@@ -5,4 +5,7 @@
 
 ## 전처리된 데이터 설명
 > user_sleep_2018_1.csv, user_sleep_2019_1.csv, user_sleep_2020_1.csv : 운동관련 데이터와의 머지를 위해 중복값이 제거된 수면관련 설문 데이터 (2018-2020)
-> user_sleep_2020_exer1
+> user_sleep_2018_exer1.csv, user_sleep_2019_exer1.csv, user_sleep_2020_exer1.csv : 운동관련 데이터 (걷기, 달리기)의 시간, 거리가 기록된 데이터 (2018-2020)
+> user_sleep_2019_2018_sorted_e4.csv, user_sleep_2020_sorted_e4.csv : 연구 참여자의 웨어러블 기기를 통해 측정된 수면 2시간 전 신체계측 (BVP, HR, EDA, TEMP) 센서 데이터 (2018-2020)
+> user_survey_2018.csv, user_survey_2019.csv, user_survey_2019_2018.csv, user_survey_2020.csv : 카페인, 술, 감정 등 기본 설문조사 결과 (2018-2020)
+> user_info_2019_2018_updated.csv, user_info_2020.csv : 연구 참여자의 기본정보 (2018-2020)
