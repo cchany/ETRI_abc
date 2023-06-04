@@ -15,7 +15,7 @@
 
 > (4) 전처리된 데이터셋은 data 폴더에 업로드되어있으며, data_merge.ipynb 파일에서 merge 되었습니다.
 
-### 4) 하루에 2번 이상 수면기록이 있는 경우, 더 긴 수면기록으로 사용되었으며, single 및 double ensemble method을 통해 라이프로그 데이터 기반 수면관련 예측의 성능을 평가하였습니다.
+### 4) 하루에 2번 이상 수면기록이 있는 경우, 더 긴 수면기록으로 사용되었으며, single 및 double stacking ensemble method을 통해 라이프로그 데이터 기반 수면관련 예측의 성능을 평가하였습니다.
 
 ### 5) ensemble method 는 Logistic regression, XGBoost, Decision tree, Light GBM, RandomForest 모델이 classifier 로 사용되었으며, 각 모델의 성능과 ensmeble method의 성능을 비교하였습니다.
 
